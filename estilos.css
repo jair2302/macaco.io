@@ -1,0 +1,59 @@
+.cuerpo {
+    height: 1024px;
+    width: 1440px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    
+    }
+.contenedor {
+    height: 412px;
+    width: 695px;
+    left: 372px;
+    top: 306px;
+    border-radius: 0px;
+    
+}
+.macaco {
+    height: 412px;
+    width: 358px;
+    left: 372px;
+    top: 306px;
+    border-radius: 0px;
+
+}
+.titulo {
+    height: 28px;
+    width: 112px;
+    left: 840px;
+    top: 379px;
+    border-radius: nullpx;
+    
+    
+     
+}
+.texto {
+    height: 120px;
+    width: 200px;
+    left: 800px;
+    top: 457px;
+    border-radius: nullpx;
+    
+    
+}
+
+
+.nav-boton {
+    height: 15px;
+    width: 48px;
+    left: 876px;
+    top: 627px;
+    border-radius: nullpx;
+    
+}
+
+
+
+
+
+ 

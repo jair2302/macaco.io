@@ -1,0 +1,29 @@
+<!DOCTYPE html >
+<html  lang ="en">
+<cabeza >
+    <meta  charset = " UTF-8 " >
+    <meta  http-equiv = " X-UA-Compatible " content = " IE = edge " >
+    <meta  name = " viewport " content = " width = device-width, initial-scale = 1.0 " >
+    <link  href = " https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap " rel = " hoja de estilo " >
+    <link  href = " https://fonts.googleapis.com/css2?family=Indie+Flower&family=Palette+Mosaic&display=swap " rel = " stylesheet " >
+    <link  href = " https://fonts.googleapis.com/css2?family=Rajdhani&display=swap " rel = " hoja de estilo " >
+    <link  rel = " stylesheet " href = " estilos.css " >
+    <título > Monito versión móvil 
+        </título>
+</cabeza >
+<cuerpo >
+    <div  class = " contenedor " >
+        <div  class = " contenedor " >
+            <h1  class = " titulo " > El macaco </h1 >
+            <h4  class = " texto " > 
+                 <b >
+                Los términos mono y simio son sinónimos en el idioma español, pero en zoología suele hacerse una distinción entre ambos, debido a la influencia del idioma inglés, en el que los términos equivalentes monkey y ape tienen diferentes significados.
+            </b > 
+            </h4 >
+            <img  class = " macaco " src = " img / Macaco.jpg " >
+        </div >
+        <nav >
+            <button  class = " nav-boton " >  <b > Ver más </b >  </button >
+        </nav >
+</cuerpo >
+</html >
